@@ -6,11 +6,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 - Programming Languages: C#, VB.NET, .NET Core, JavaScript, TypeScript, Python, Java, HTML, CSS
 - Frameworks: ASP.NET Core MVC/Web API, Angular 10, React, Entity Framework, LINQ, NUnit, xUnit
 - Databases: MySQL, PostgreSQL, MongoDB, Oracle Database, Microsoft SQL Server
-- Tools & Technologies: Git, Visual Studio, Azure DevOps, Jenkins, GitHub, Docker, Kubernetes, Swagger, Postman, SignalR, OAuth2, Excel, JWT, WPF, TFS, PowerShell, SSIS
-- Cloud Platforms: AWS (S3, EC2, RDS, Lambda, CloudWatch), Azure (App Services, Storage, Service Bus, Functions, SQL, Event Hubs, Queues, Key Vault, Service Fabric)
-- Methodologies: Agile, Scrum, Test-Driven Development (TDD), CI/CD
-- Core Competencies: Cloud Services, API Integration, DevOps, CI/CD, Performance Optimization, Testing/QA, Database Management, Version Control, UI Development, Microservices Architecture
-- Frontend: React.js, Angular, Bootstrap, Material UI, Blazor, Redux, jQuery
 
 # 📚 Education
 - Master’s Degree in Computer Science** from University of Missouri at Kansas City
